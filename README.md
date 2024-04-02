@@ -6,6 +6,6 @@ In the classes there are the pull,update, experement, and report functions.
 
 To run the code make sure you are in the same folder as the code in the terminal/command line and type
 
-##python test.py
+## python test.py
 
 and it will giv eyou some results in the terminal/command line.
